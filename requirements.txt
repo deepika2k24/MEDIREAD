@@ -1,0 +1,7 @@
+tensorflow>=2.0
+opencv-python
+pillow
+pytesseract
+scikit-learn
+requests
+matplotlib
